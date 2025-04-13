@@ -1,6 +1,4 @@
 **RDS Deletion Monitoring System - Detailed Implementation Guide**
-![IAM_Role_of_the_Lambda_5F](https://github.com/user-attachments/assets/f77e48f0-c23a-47f0-8770-e5cf1f0542b2)
-![Lambdafunction_Creation_3A](https://github.com/user-attachments/assets/c3966dd1-a563-4ec6-afc9-9fc828a7a093)
 
 **Navigate to AWS CloudTrail Console**
 
