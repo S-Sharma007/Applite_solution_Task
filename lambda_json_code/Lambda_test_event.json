@@ -1,0 +1,21 @@
+{
+    "version": "0",
+    "id": "abcd1234",
+    "detail-type": "AWS API Call via CloudTrail",
+    "source": "aws.rds",
+    "account": "123456789012",
+    "time": "2025-04-12T10:00:00Z",
+    "region": "ap-southeast-2",
+    "resources": [],
+    "detail": {
+      "eventTime": "2025-04-12T10:00:00Z",
+      "eventName": "DeleteDBInstance",
+      "awsRegion": "ap-southeast-2",
+      "requestParameters": {
+        "dBInstanceIdentifier": "my-rds-instance"
+      },
+      "userIdentity": {
+        "principalId": "admin@example.com"
+      }
+    }
+  }
