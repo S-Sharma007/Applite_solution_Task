@@ -1,4 +1,4 @@
-**RDS Deletion Monitoring System - Detailed Implementation Guide**
+![IAM_Role_of_the_Lambda_5F](https://github.com/user-attachments/assets/f77e48f0-c23a-47f0-8770-e5cf1f0542b2)**RDS Deletion Monitoring System - Detailed Implementation Guide**
 
 ![Lambdafunction_Creation_3A](https://github.com/user-attachments/assets/c3966dd1-a563-4ec6-afc9-9fc828a7a093)
 
@@ -50,15 +50,18 @@ Go to Amazon SNS Console:
 ![Lambda_function_Creation_3B](https://github.com/user-attachments/assets/c71a8c9e-ee7e-47c2-a2f3-0021f5a82c39)
 
 ** 4. Creation of the Lambda_function** 
+
 - Check the lambda_function.py
 
 ![lambda_functioncode_5E](https://github.com/user-attachments/assets/e066fcb5-8278-4105-a259-472083ce7b93)
 ![Lambda_trigger_added_5B](https://github.com/user-attachments/assets/6a51745b-b454-4d33-b971-cff404237596)
 ![Lambda_Destination_added_5C](https://github.com/user-attachments/assets/3de0d1b5-6631-49ad-8f58-0308fc1bc95b)
 
+
 ** 5. Creating IAM Role**
 
 ![Policy_Role_attach_EventBridge_5A](https://github.com/user-attachments/assets/2d2eeec4-9bf7-4170-99fe-255788cd6f5b)
+![IAM_Role_of_the_Lambda_5F](https://github.com/user-attachments/assets/7966f14d-4111-4403-ba43-9ffff1990adc)
 
 ** 6. Creation of the EventBridge_rule**
 
